@@ -88,7 +88,7 @@ Visit the live website: *in development*
 git clone https://github.com/better-cainta/bettercainta.git
 
 # Navigate to project directory
-cd better-cainta
+cd bettercainta
 
 # Install dependencies
 npm install
