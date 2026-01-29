@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-BetterSolano.org is a civic-tech project built for the people of Solano, Nueva Vizcaya. We are committed to providing a welcoming, inclusive, and harassment-free environment for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+BetterCainta is a civic-tech project built for the people of Cainta, Rizal. We are committed to providing a welcoming, inclusive, and harassment-free environment for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -40,8 +40,7 @@ This Code of Conduct applies to all project spaces, including:
 
 Instances of unacceptable behavior may be reported to:
 
-- Email: volunteer@bettersolano.org
-- Discord: Contact a moderator
+- Email: bettercainta@proton.me
 
 All complaints will be reviewed and investigated promptly and fairly. The project team is obligated to maintain confidentiality regarding the reporter.
 
