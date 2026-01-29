@@ -9,13 +9,13 @@
 
 ## Reporting a Vulnerability
 
-We take security seriously at BetterSolano.org. If you discover a security vulnerability, please report it responsibly.
+We take security seriously at BetterCainta. If you discover a security vulnerability, please report it responsibly.
 
 ### How to Report
 
 **Do NOT open a public GitHub issue for security vulnerabilities.**
 
-Instead, please email: **volunteer@bettersolano.org**
+Instead, please email: **bettercainta@proton.me**
 
 Include in your report:
 - Description of the vulnerability
@@ -27,9 +27,9 @@ Include in your report:
 
 | Action | Timeframe |
 |--------|-----------|
-| Acknowledgment | Within 48 hours |
-| Initial Assessment | Within 7 days |
-| Resolution Target | Within 30 days |
+| Acknowledgment | Within 5 days |
+| Initial Assessment | Within 14 days |
+| Resolution Target | Within 40 days |
 | Public Disclosure | After fix is deployed |
 
 ## Security Measures
@@ -61,8 +61,6 @@ Include in your report:
 | Service | Purpose | Data Shared |
 |---------|---------|-------------|
 | Google Analytics | Usage statistics | Anonymous page views |
-| Open-Meteo API | Weather data | Location (Solano) |
-| ExchangeRate API | Currency rates | None |
 | OpenStreetMap | Map tiles | None |
 
 ## Best Practices for Contributors
@@ -79,7 +77,7 @@ When contributing code:
 
 This security policy covers:
 
-- The BetterSolano.org website
+- The BetterCainta website
 - The GitHub repository
 - Associated build tools and scripts
 
@@ -90,10 +88,10 @@ Out of scope:
 
 ## Contact
 
-For security concerns: **volunteer@bettersolano.org**
+**bettercainta@proton.me**
 
-For general inquiries: Open a GitHub issue or join our [Discord](https://discord.com/invite/qeSu7RJkjQ)
+[Frank Cayaco](@glamosky)
 
 ---
 
-Thank you for helping keep BetterSolano.org secure for the community.
+Thank you for helping keep BetterCainta secure for the community.
