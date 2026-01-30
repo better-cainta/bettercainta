@@ -302,7 +302,7 @@ Made for the people of Cainta, Rizal
 
 ## Developers
 
-[Frank Cayaco](https://glamosky.vercel.app/) I love making projects that help my local community. I also make projects for the [trainspotting](https://www.facebook.com/railfansphilippines) community
+[Frank Cayaco](https://glamosky.vercel.app/) I love making projects that help my local community.
 
 ---
 
