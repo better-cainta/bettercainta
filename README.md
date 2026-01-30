@@ -116,7 +116,7 @@ npm run dev
 1. **Clone the repository**
 ```bash
 git clone https://github.com/better-cainta/bettercainta.git
-cd better-cainta
+cd bettercainta
 ```
 
 2. **Install dependencies**
@@ -302,7 +302,7 @@ Made for the people of Cainta, Rizal
 
 ## Developers
 
-[Frank Cayaco](https://glamosky.vercel.app/) I love making projects that help my local community. I also make projects for the [trainspotting](https://www.facebook.com/railfansphilippines) community
+[Frank Cayaco](https://glamosky.vercel.app/) I love making projects that help my local community.
 
 ---
 
