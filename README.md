@@ -116,7 +116,7 @@ npm run dev
 1. **Clone the repository**
 ```bash
 git clone https://github.com/better-cainta/bettercainta.git
-cd better-cainta
+cd bettercainta
 ```
 
 2. **Install dependencies**
