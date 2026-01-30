@@ -1,4 +1,4 @@
-/* Better Solano - Main JavaScript */
+/* Better Cainta - Main JavaScript */
 
 document.addEventListener('DOMContentLoaded', () => {
     // Prevent double-click on navigation and header links from causing unintended behavior

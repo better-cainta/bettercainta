@@ -1,6 +1,6 @@
 /**
  * Statistics Page - Chart.js Implementation
- * Better Solano Portal
+ * Better Cainta Portal
  */
 
 // Site branding color palette for charts

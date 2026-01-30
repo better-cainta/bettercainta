@@ -1,5 +1,5 @@
 /**
- * Better Solano - Enhanced Translation System
+ * Better Cainta - Enhanced Translation System
  * Supports: English (en), Filipino (fil), Ilocano (ilo)
  * Updated: 2025-12-10
  */
@@ -24,7 +24,7 @@ const translations = {
         
         // Statistics Page
         "stats-title": "Municipal Statistics",
-        "stats-subtitle": "Data and statistics about Solano, Nueva Vizcaya",
+        "stats-subtitle": "Data and statistics about Cainta, Rizal",
         "stats-demographics": "Demographics Overview",
         "stats-economic": "Economic Indicators",
         "stats-barangay": "Population by Barangay",
@@ -50,8 +50,8 @@ const translations = {
         "breadcrumb-terms": "Terms of Use",
         
         // Hero Section
-        "hero-welcome": "Welcome to BetterSolano.org",
-        "hero-subtitle": "Access government services, information, and resources for the people of Solano, Nueva Vizcaya.",
+        "hero-welcome": "Welcome to BetterCainta.org",
+        "hero-subtitle": "Access government services, information, and resources for the people of Cainta, Rizal.",
         "hero-browse": "Browse Services",
         "hero-contact": "Contact Us",
         "hero-search-placeholder": "Search for services...",
@@ -103,15 +103,15 @@ const translations = {
         "contact-directions": "Get Directions",
         
         // Footer
-        "footer-title": "Better Solano",
-        "footer-desc": "A service-first information portal for the Municipality of Solano, Nueva Vizcaya.",
+        "footer-title": "Better Cainta",
+        "footer-desc": "A service-first information portal for the Municipality of Cainta, Rizal.",
         "footer-quick-links": "Quick Links",
         "footer-all-services": "All Services",
         "footer-officials": "Officials",
         "footer-contact-us": "Contact Us",
         "footer-faq": "FAQ",
         "footer-contact": "Contact",
-        "footer-copyright": "Better Solano. All rights reserved.",
+        "footer-copyright": "Better Cainta. All rights reserved.",
         "accessibility-statement": "Accessibility Statement",
         "footer-privacy": "Privacy Policy",
         "footer-terms": "Terms of Use",
@@ -121,7 +121,7 @@ const translations = {
 
         // Services Page
         "services-title": "Municipal Services Directory",
-        "services-subtitle": "Browse all services offered by the Municipality of Solano",
+        "services-subtitle": "Browse all services offered by the Municipality of Cainta",
         "search-placeholder": "Search services...",
         "search-no-results": "No services found",
         "search-try-different": "Try different keywords or browse categories below",
@@ -191,13 +191,13 @@ const translations = {
         
         // Government Page
         "gov-title": "Government Structure & Officials",
-        "gov-subtitle": "Meet the leadership and offices serving Solano",
+        "gov-subtitle": "Meet the leadership and offices serving Cainta",
         "gov-executive": "Executive Branch",
         "gov-sb-members": "Sangguniang Bayan Members",
-        "gov-sb-subtitle": "Municipal Councilors serving the people of Solano",
+        "gov-sb-subtitle": "Municipal Councilors serving the people of Cainta",
         "gov-departments": "Department Heads & Key Offices",
         "gov-dept-subtitle": "Municipal offices providing services to citizens",
-        "gov-barangays": "Barangays of Solano",
+        "gov-barangays": "Barangays of Cainta",
         "gov-barangays-count": "22 Barangays serving our community",
         "gov-organizational-chart": "Organizational Chart",
         "gov-term": "Term",
@@ -297,7 +297,7 @@ const translations = {
         
         // News Page
         "news-title": "News & Announcements",
-        "news-subtitle": "Latest updates from the Municipality of Solano",
+        "news-subtitle": "Latest updates from the Municipality of Cainta",
         "news-latest": "Latest News",
         "news-announcements": "Announcements",
         "news-events": "Events",
@@ -426,7 +426,7 @@ const translations = {
         
         // Statistics Page
         "stats-title": "Estadistika ng Munisipalidad",
-        "stats-subtitle": "Datos at estadistika tungkol sa Solano, Nueva Vizcaya",
+        "stats-subtitle": "Datos at estadistika tungkol sa Cainta, Rizal",
         "stats-demographics": "Pangkalahatang-ideya ng Demograpiya",
         "stats-economic": "Mga Tagapagpahiwatig ng Ekonomiya",
         "stats-barangay": "Populasyon Ayon sa Barangay",
@@ -452,8 +452,8 @@ const translations = {
         "breadcrumb-terms": "Mga Tuntunin ng Paggamit",
         
         // Hero Section
-        "hero-welcome": "Maligayang Pagdating sa BetterSolano.org",
-        "hero-subtitle": "I-access ang mga serbisyo ng pamahalaan, impormasyon, at mga mapagkukunan para sa mga mamamayan ng Solano, Nueva Vizcaya.",
+        "hero-welcome": "Maligayang Pagdating sa BetterCainta.org",
+        "hero-subtitle": "I-access ang mga serbisyo ng pamahalaan, impormasyon, at mga mapagkukunan para sa mga mamamayan ng Cainta, Rizal.",
         "hero-browse": "Tingnan ang mga Serbisyo",
         "hero-contact": "Makipag-ugnayan sa Amin",
         "hero-search-placeholder": "Maghanap ng serbisyo...",
@@ -505,15 +505,15 @@ const translations = {
         "contact-directions": "Kumuha ng Direksyon",
         
         // Footer
-        "footer-title": "Better Solano",
-        "footer-desc": "Isang portal ng impormasyon na inuuna ang serbisyo para sa Munisipalidad ng Solano, Nueva Vizcaya.",
+        "footer-title": "Better Cainta",
+        "footer-desc": "Isang portal ng impormasyon na inuuna ang serbisyo para sa Munisipalidad ng Cainta, Rizal.",
         "footer-quick-links": "Mabilis na Links",
         "footer-all-services": "Lahat ng Serbisyo",
         "footer-officials": "Mga Opisyal",
         "footer-contact-us": "Makipag-ugnayan sa Amin",
         "footer-faq": "Mga Madalas Itanong",
         "footer-contact": "Makipag-ugnayan",
-        "footer-copyright": "Better Solano. Nakalaan ang lahat ng karapatan.",
+        "footer-copyright": "Better Cainta. Nakalaan ang lahat ng karapatan.",
         "accessibility-statement": "Pahayag ng Aksesibilidad",
         "footer-privacy": "Patakaran sa Privacy",
         "footer-terms": "Mga Tuntunin ng Paggamit",
@@ -523,7 +523,7 @@ const translations = {
 
         // Services Page
         "services-title": "Direktoryo ng Serbisyong Munisipal",
-        "services-subtitle": "Tingnan ang lahat ng serbisyong inaalok ng Munisipalidad ng Solano",
+        "services-subtitle": "Tingnan ang lahat ng serbisyong inaalok ng Munisipalidad ng Cainta",
         "search-placeholder": "Maghanap ng serbisyo...",
         "search-no-results": "Walang nahanap na serbisyo",
         "search-try-different": "Subukan ang ibang mga keyword o tingnan ang mga kategorya sa ibaba",
@@ -593,13 +593,13 @@ const translations = {
         
         // Government Page
         "gov-title": "Istruktura at Opisyal ng Pamahalaan",
-        "gov-subtitle": "Kilalanin ang pamunuan at mga opisina na naglilingkod sa Solano",
+        "gov-subtitle": "Kilalanin ang pamunuan at mga opisina na naglilingkod sa Cainta",
         "gov-executive": "Ehekutibong Sangay",
         "gov-sb-members": "Mga Miyembro ng Sangguniang Bayan",
-        "gov-sb-subtitle": "Mga Konsehal na naglilingkod sa mga tao ng Solano",
+        "gov-sb-subtitle": "Mga Konsehal na naglilingkod sa mga tao ng Cainta",
         "gov-departments": "Mga Pinuno ng Departamento at Pangunahing Opisina",
         "gov-dept-subtitle": "Mga opisina ng munisipalidad na nagbibigay ng serbisyo sa mga mamamayan",
-        "gov-barangays": "Mga Barangay ng Solano",
+        "gov-barangays": "Mga Barangay ng Cainta",
         "gov-barangays-count": "22 Barangay na naglilingkod sa ating komunidad",
         "gov-organizational-chart": "Tsart ng Organisasyon",
         "gov-term": "Termino",
@@ -699,7 +699,7 @@ const translations = {
         
         // News Page
         "news-title": "Balita at Anunsyo",
-        "news-subtitle": "Pinakabagong balita mula sa Munisipalidad ng Solano",
+        "news-subtitle": "Pinakabagong balita mula sa Munisipalidad ng Cainta",
         "news-latest": "Pinakabagong Balita",
         "news-announcements": "Mga Anunsyo",
         "news-events": "Mga Kaganapan",
@@ -828,7 +828,7 @@ const translations = {
         
         // Statistics Page
         "stats-title": "Estadistika ti Munisipalidad",
-        "stats-subtitle": "Datos ken estadistika maipapan iti Solano, Nueva Vizcaya",
+        "stats-subtitle": "Datos ken estadistika maipapan iti Cainta, Rizal",
         "stats-demographics": "Pakabuklan ti Demograpiya",
         "stats-economic": "Dagiti Pagilasinan ti Ekonomiya",
         "stats-barangay": "Populasion Sigun iti Barangay",
@@ -854,8 +854,8 @@ const translations = {
         "breadcrumb-terms": "Dagiti Kondision ti Panagusar",
         
         // Hero Section
-        "hero-welcome": "Naragsak a Panangyawat iti BetterSolano.org",
-        "hero-subtitle": "Aksesen dagiti serbisio ti gobierno, impormasion, ken dagiti rekurso para kadagiti umili ti Solano, Nueva Vizcaya.",
+        "hero-welcome": "Naragsak a Panangyawat iti BetterCainta.org",
+        "hero-subtitle": "Aksesen dagiti serbisio ti gobierno, impormasion, ken dagiti rekurso para kadagiti umili ti Cainta, Rizal.",
         "hero-browse": "Kitaen dagiti Serbisio",
         "hero-contact": "Kontaken Dakami",
         "hero-search-placeholder": "Agsapul ti serbisio...",
@@ -907,15 +907,15 @@ const translations = {
         "contact-directions": "Alaen ti Direksion",
         
         // Footer
-        "footer-title": "Better Solano",
-        "footer-desc": "Maysa a portal ti impormasion a mangipangpangruna ti serbisio para iti Munisipalidad ti Solano, Nueva Vizcaya.",
+        "footer-title": "Better Cainta",
+        "footer-desc": "Maysa a portal ti impormasion a mangipangpangruna ti serbisio para iti Munisipalidad ti Cainta, Rizal.",
         "footer-quick-links": "Dagiti Napartak a Silpo",
         "footer-all-services": "Amin a Serbisio",
         "footer-officials": "Dagiti Opisial",
         "footer-contact-us": "Kontaken Dakami",
         "footer-faq": "Masansan a Maisaludsod",
         "footer-contact": "Kontak",
-        "footer-copyright": "Better Solano. Amin a karbengan ket naireserbado.",
+        "footer-copyright": "Better Cainta. Amin a karbengan ket naireserbado.",
         "accessibility-statement": "Pahayag ti Aksesibilidad",
         "footer-privacy": "Pagannurotan ti Pribado",
         "footer-terms": "Dagiti Kondision ti Panagusar",
@@ -925,7 +925,7 @@ const translations = {
 
         // Services Page
         "services-title": "Direktorio ti Serbisio ti Munisipalidad",
-        "services-subtitle": "Kitaen amin a serbisio nga i-alok ti Munisipalidad ti Solano",
+        "services-subtitle": "Kitaen amin a serbisio nga i-alok ti Munisipalidad ti Cainta",
         "search-placeholder": "Agsapul ti serbisio...",
         "search-no-results": "Awan ti nasarakan a serbisio",
         "search-try-different": "Padasem ti sabali a keyword wenno kitaem dagiti kategorya iti baba",
@@ -995,13 +995,13 @@ const translations = {
         
         // Government Page
         "gov-title": "Estruktura ken Opisial ti Gobierno",
-        "gov-subtitle": "Ammoen dagiti lider ken opisina a mangserbiserbisio iti Solano",
+        "gov-subtitle": "Ammoen dagiti lider ken opisina a mangserbiserbisio iti Cainta",
         "gov-executive": "Ehekutibo a Sanga",
         "gov-sb-members": "Dagiti Kameng ti Sangguniang Bayan",
-        "gov-sb-subtitle": "Dagiti Konsehal a mangserbiserbisio kadagiti umili ti Solano",
+        "gov-sb-subtitle": "Dagiti Konsehal a mangserbiserbisio kadagiti umili ti Cainta",
         "gov-departments": "Dagiti Ulo ti Departamento ken Kangrunaan nga Opisina",
         "gov-dept-subtitle": "Dagiti opisina ti munisipalidad a mangted ti serbisio kadagiti umili",
-        "gov-barangays": "Dagiti Barangay ti Solano",
+        "gov-barangays": "Dagiti Barangay ti Cainta",
         "gov-barangays-count": "22 a Barangay a mangserbiserbisio iti komunidad tayo",
         "gov-organizational-chart": "Tsart ti Organisasion",
         "gov-term": "Termino",
@@ -1101,7 +1101,7 @@ const translations = {
         
         // News Page
         "news-title": "Damag ken Anunsiasion",
-        "news-subtitle": "Kabarbaro a damag manipud iti Munisipalidad ti Solano",
+        "news-subtitle": "Kabarbaro a damag manipud iti Munisipalidad ti Cainta",
         "news-latest": "Kabarbaro a Damag",
         "news-announcements": "Dagiti Anunsiasion",
         "news-events": "Dagiti Pasamak",

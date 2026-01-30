@@ -1,4 +1,4 @@
-/* Better Solano - Resolution Table JavaScript */
+/* Better Cainta - Resolution Table JavaScript */
 
 /**
  * Fetches resolution data from the JSON file

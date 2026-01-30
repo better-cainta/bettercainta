@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Version Management Script for BetterSolano
+# Version Management Script for BetterCainta
 # Usage: ./scripts/version.sh [major|minor|patch]
 
 VERSION_FILE="version.json"

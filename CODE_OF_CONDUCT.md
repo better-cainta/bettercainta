@@ -11,7 +11,7 @@ BetterCainta is a civic-tech project built for the people of Cainta, Rizal. We a
 - Be respectful and considerate in all interactions
 - Use welcoming and inclusive language
 - Accept constructive criticism gracefully
-- Focus on what is best for the community and the people of Solano
+- Focus on what is best for the community and the people of Cainta
 - Show empathy towards other community members
 - Respect differing viewpoints and experiences
 - Prioritize accuracy when contributing public government data
@@ -56,4 +56,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-By participating in BetterSolano.org, you agree to abide by this Code of Conduct.
+By participating in BetterCainta.org, you agree to abide by this Code of Conduct.

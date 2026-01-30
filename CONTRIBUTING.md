@@ -1,10 +1,10 @@
 # Contributing to BetterCainta
 
-Thank you for your interest in contributing to BetterSolano.org! This civic-tech project thrives on community participation. Whether you're a developer, designer, translator, or a concerned citizen of Solano, your contributions are welcome.
+Thank you for your interest in contributing to BetterCainta.org! This civic-tech project thrives on community participation. Whether you're a developer, designer, translator, or a concerned citizen of Cainta, your contributions are welcome.
 
 ## Choosing a Version
 
-BetterSolano.org has two versions. Choose based on your preference:
+BetterCainta.org has two versions. Choose based on your preference:
 
 | Version | Branch | Best For |
 |---------|--------|----------|
@@ -177,7 +177,7 @@ Pull requests are reviewed for:
 
 ## Community
 
-~~- **Facebook:** [@bettersolano.org](https://www.facebook.com/bettersolano.org)~~
+~~- **Facebook:** [@betterCainta.org](https://www.facebook.com/betterCainta.org)~~
 - **Email:** bettercainta@proton.me
 
 ## Recognition

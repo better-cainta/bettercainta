@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# BetterSolano Build Script
+# BetterCainta Build Script
 # Creates minified production files in dist/ folder
 
-echo "Building BetterSolano for production..."
+echo "Building BetterCainta for production..."
 
 # Auto-bump patch version (skip if --no-bump flag is passed)
 if [ "$1" != "--no-bump" ] && [ -f "scripts/version.sh" ]; then
@@ -17,7 +17,11 @@ mkdir -p dist
 
 # Copy all files first
 echo "Copying files..."
-rsync -av --exclude='node_modules' --exclude='dist' --exclude='.git' --exclude='backup-restore-point-*' --exclude='package*.json' --exclude='build.sh' --exclude='.vscode' . dist/
+# rsync -av --exclude='node_modules' --exclude='dist' --exclude='.git' --exclude='backup-restore-point-*' --exclude='package*.json' --exclude='build.sh' --exclude='.vscode' . dist/
+cp -r * dist/
+# Note: You might need to exclude node_modules manually or just ignore the warning if it copies everything.
+# A cleaner Windows-compatible line is:
+# mkdir -p dist && cp -r assets data services service-details *.html dist/
 
 # Minify HTML files
 echo "Minifying HTML..."

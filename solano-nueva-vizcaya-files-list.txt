@@ -1,0 +1,110 @@
+Files containing 'Solano' or 'Nueva Vizcaya' (excluding node_modules)
+Grouped by Content (text displayed to users) vs Code (file paths, variables, comments, config)
+================================================================================
+
+--- CONTENT (text displayed to users) ---
+User-facing copy: meta descriptions, titles, body text, alt text, link labels,
+data rendered on pages (e.g. service titles, office names), translations,
+pseudo-element text, documentation.
+
+HTML pages:
+  403.html,
+  404.html,
+  500.html,
+  index.html,
+  accessibility/index.html,
+  budget/index.html,
+  contact/index.html,
+  faq/index.html,
+  government/index.html,
+  government/officials.html,
+  legislative/index.html,
+  legislative/ordinance-framework.html,
+  legislative/resolution-framework.html,
+  news/index.html,
+  privacy/index.html,
+  services/agriculture.html,
+  services/business.html,
+  services/certificates.html,
+  services/education.html,
+  services/environment.html,
+  services/health.html,
+  services/index.html,
+  services/infrastructure.html,
+  services/public-safety.html,
+  services/social-services.html,
+  services/tax-payments.html,
+  service-details/birth-certificate.html,
+  service-details/business-permits-licensing.html,
+  service-details/civil-registrar.html,
+  service-details/death-certificate.html,
+  service-details/general-services.html,
+  service-details/human-resource-management.html,
+  service-details/marriage-certificate.html,
+  service-details/mswdo.html,
+  service-details/mswdo-services.html,
+  service-details/municipal-accounting.html,
+  service-details/municipal-agriculture.html,
+  service-details/municipal-assessor.html,
+  service-details/municipal-budget.html,
+  service-details/municipal-civil-registrar.html,
+  service-details/municipal-engineering.html,
+  service-details/municipal-general-services.html,
+  service-details/municipal-planning.html,
+  service-details/municipal-treasurer.html,
+  service-details/property-declaration.html,
+  service-details/seedo-public-market.html,
+  service-details/seedo-slaughterhouse.html,
+  service-details/tricycle-franchising.html,
+  sitemap/index.html,
+  statistics/index.html,
+  terms/index.html,
+
+Data (displayed on site):
+  data/competitive-index.json,
+  data/ordinances.json,
+  data/resolutions.json,
+  data/services.json,
+
+JS that injects or provides user-visible text:
+  assets/js/translations.js,
+  assets/js/weather-map.js,
+  assets/js/info-bar.js,
+
+CSS (displayed text, e.g. pseudo-elements):
+  assets/css/style.css
+
+Docs (read by people):
+  docs/ANNOUNCEMENT.md,
+  docs/RELEASE_NOTES.md,
+  CODE_OF_CONDUCT.md,
+  CONTRIBUTING.md,
+  MIGRATION.md,
+
+--- CODE (file paths, variables, comments, config) ---
+Build/config comments, script headers, variable/object names, package metadata.
+
+Config / build:
+  package.json,
+  build.sh,
+  scripts/version.sh,
+  robots.txt,
+  .htaccess
+
+JS (comments or variable names only):
+  assets/js/version.js,
+  assets/js/transparency.js,
+  assets/js/validation-utils.js,
+  assets/js/statistics-new.js,
+  assets/js/statistics.js,
+  assets/js/resolutions.js,
+  assets/js/search.js,
+  assets/js/services-validator.js,
+  assets/js/ordinances.js,
+  assets/js/main.js
+
+CSS (comments only):
+  assets/css/responsive.css
+
+================================================================================
+Total: 81 files (Content: 62, Code: 19)
