@@ -56,4 +56,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 
 ---
 
-By participating in BetterCainta.org, you agree to abide by this Code of Conduct.
+By participating in bettercainta.github.io, you agree to abide by this Code of Conduct.

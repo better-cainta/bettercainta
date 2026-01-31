@@ -1,10 +1,10 @@
 # Migration Guide: Static HTML to React + TypeScript
 
-This document provides guidance for contributors migrating from the static HTML version to the React + TypeScript version of BetterCainta.org.
+This document provides guidance for contributors migrating from the static HTML version to the React + TypeScript version of bettercainta.github.io.
 
 ## Overview
 
-BetterCainta.org now has two versions:
+bettercainta.github.io now has two versions:
 
 | Version | Branch | Status | Technology |
 |---------|--------|--------|------------|
@@ -60,7 +60,7 @@ BetterCainta.org now has two versions:
 
 ```bash
 # Clone the repository
-git clone https://github.com/BetterCainta/betterCainta.git
+git clone https://github.com/better-cainta/bettercainta.git
 cd betterCainta
 
 # Switch to React branch
@@ -223,7 +223,7 @@ export default function ExampleCard({ title, description }: ExampleCardProps) {
 
 - Open an issue on GitHub with the `react` label
 - Join our Discord community for real-time discussion
-- Email: volunteer@betterCainta.org
+- Email: bettercainta@proton.me
 
 ---
 

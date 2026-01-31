@@ -1,10 +1,10 @@
 # Contributing to BetterCainta
 
-Thank you for your interest in contributing to BetterCainta.org! This civic-tech project thrives on community participation. Whether you're a developer, designer, translator, or a concerned citizen of Cainta, your contributions are welcome.
+Thank you for your interest in contributing to bettercainta.github.io! This civic-tech project thrives on community participation. Whether you're a developer, designer, translator, or a concerned citizen of Cainta, your contributions are welcome.
 
 ## Choosing a Version
 
-BetterCainta.org has two versions. Choose based on your preference:
+bettercainta.github.io has two versions. Choose based on your preference:
 
 | Version | Branch | Best For |
 |---------|--------|----------|
@@ -177,7 +177,7 @@ Pull requests are reviewed for:
 
 ## Community
 
-~~- **Facebook:** [@betterCainta.org](https://www.facebook.com/betterCainta.org)~~
+~~- **Facebook:** [@bettercainta.github.io](https://www.facebook.com/bettercainta.github.io)~~
 - **Email:** bettercainta@proton.me
 
 ## Recognition

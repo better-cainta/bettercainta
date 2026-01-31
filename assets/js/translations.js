@@ -50,7 +50,7 @@ const translations = {
         "breadcrumb-terms": "Terms of Use",
         
         // Hero Section
-        "hero-welcome": "Welcome to BetterCainta.org",
+        "hero-welcome": "Welcome to bettercainta.github.io",
         "hero-subtitle": "Access government services, information, and resources for the people of Cainta, Rizal.",
         "hero-browse": "Browse Services",
         "hero-contact": "Contact Us",
@@ -243,7 +243,7 @@ const translations = {
         "contact-closed": "Closed",
         "contact-emergency": "Emergency Hotline",
         "contact-hotlines": "Emergency Hotlines",
-        "contact-hotlines-desc": "For emergencies and inquiries, contact these numbers anytime.",
+        "contact-hotlines-desc": "For emergencies and inquiries, contact these numbers.",
         "contact-weekends": "Weekends & Holidays",
         "contact-send-btn": "Send Message",
         "contact-police": "Police",
@@ -452,7 +452,7 @@ const translations = {
         "breadcrumb-terms": "Mga Tuntunin ng Paggamit",
         
         // Hero Section
-        "hero-welcome": "Maligayang Pagdating sa BetterCainta.org",
+        "hero-welcome": "Maligayang Pagdating sa bettercainta.github.io",
         "hero-subtitle": "I-access ang mga serbisyo ng pamahalaan, impormasyon, at mga mapagkukunan para sa mga mamamayan ng Cainta, Rizal.",
         "hero-browse": "Tingnan ang mga Serbisyo",
         "hero-contact": "Makipag-ugnayan sa Amin",
@@ -645,7 +645,7 @@ const translations = {
         "contact-closed": "Sarado",
         "contact-emergency": "Emergency Hotline",
         "contact-hotlines": "Mga Emergency Hotline",
-        "contact-hotlines-desc": "Para sa mga emergency at katanungan, tawagan ang mga numerong ito anumang oras.",
+        "contact-hotlines-desc": "Para sa mga emergency at katanungan, tawagan ang mga numerong ito.",
         "contact-weekends": "Sabado, Linggo at Piyesta Opisyal",
         "contact-send-btn": "Ipadala ang Mensahe",
         "contact-police": "Pulis",
@@ -854,7 +854,7 @@ const translations = {
         "breadcrumb-terms": "Dagiti Kondision ti Panagusar",
         
         // Hero Section
-        "hero-welcome": "Naragsak a Panangyawat iti BetterCainta.org",
+        "hero-welcome": "Naragsak a Panangyawat iti bettercainta.github.io",
         "hero-subtitle": "Aksesen dagiti serbisio ti gobierno, impormasion, ken dagiti rekurso para kadagiti umili ti Cainta, Rizal.",
         "hero-browse": "Kitaen dagiti Serbisio",
         "hero-contact": "Kontaken Dakami",
@@ -1047,7 +1047,7 @@ const translations = {
         "contact-closed": "Nakaserra",
         "contact-emergency": "Emergency Hotline",
         "contact-hotlines": "Dagiti Emergency Hotline",
-        "contact-hotlines-desc": "Para kadagiti emergency ken saludsod, tawagan dagitoy a numero iti aniaman nga oras.",
+        "contact-hotlines-desc": "Para kadagiti emergency ken saludsod, tawagan dagitoy a numero.",
         "contact-weekends": "Sabado, Domingo ken Piyesta Opisial",
         "contact-send-btn": "Iypatulod ti Mensahe",
         "contact-police": "Polis",

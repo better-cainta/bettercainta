@@ -7,7 +7,7 @@ Allow: /
 Allow: /assets/images/banners/opengraph.png
 
 # Sitemap location
-Sitemap: https://betterCainta.org/sitemap.xml
+Sitemap: https://bettercainta.github.io/sitemap.xml
 
 # Crawl-delay for polite crawling
 Crawl-delay: 1

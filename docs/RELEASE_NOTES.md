@@ -6,7 +6,7 @@
 
 ## Overview
 
-This release introduces a React + TypeScript version of BetterCainta.org, providing modern tooling and component-based architecture for contributors who prefer this development approach.
+This release introduces a React + TypeScript version of bettercainta.github.io, providing modern tooling and component-based architecture for contributors who prefer this development approach.
 
 ## Technology Stack
 
@@ -76,7 +76,7 @@ Report issues or provide feedback:
 
 - GitHub Issues with `react` label
 - Discord community
-- Email: volunteer@betterCainta.org
+- Email: bettercainta@proton.me
 
 ## Contributors
 
@@ -84,5 +84,5 @@ Thank you to all contributors who helped develop this version.
 
 ---
 
-Ramon Logan Jr.
-BetterCainta.org 
+Frank Cayaco
+bettercainta.github.io 

@@ -1,27 +1,23 @@
 #!/bin/bash
+shopt -s extglob # Enable extended pattern matching
 
 # BetterCainta Build Script
-# Creates minified production files in dist/ folder
 
 echo "Building BetterCainta for production..."
 
-# Auto-bump patch version (skip if --no-bump flag is passed)
-if [ "$1" != "--no-bump" ] && [ -f "scripts/version.sh" ]; then
-    echo "Bumping version..."
-    ./scripts/version.sh patch
-fi
+# DISABLE VERSION BUMPING (It causes noise during dev)
+# if [ "$1" != "--no-bump" ] && [ -f "scripts/version.sh" ]; then
+#     echo "Bumping version..."
+#     ./scripts/version.sh patch
+# fi
 
 # Clean dist folder
 rm -rf dist
 mkdir -p dist
 
-# Copy all files first
+# Copy files (Excluding dist, node_modules, and git files)
 echo "Copying files..."
-# rsync -av --exclude='node_modules' --exclude='dist' --exclude='.git' --exclude='backup-restore-point-*' --exclude='package*.json' --exclude='build.sh' --exclude='.vscode' . dist/
-cp -r * dist/
-# Note: You might need to exclude node_modules manually or just ignore the warning if it copies everything.
-# A cleaner Windows-compatible line is:
-# mkdir -p dist && cp -r assets data services service-details *.html dist/
+cp -r !(dist|node_modules|.git|.vscode|build.sh|package*.json) dist/
 
 # Minify HTML files
 echo "Minifying HTML..."
@@ -44,7 +40,7 @@ find dist/assets/css -name "*.css" -type f | while read file; do
     npx cleancss -o "$file" "$file"
 done
 
-# Transpile JavaScript (ES6+ to ES5 for older browser support)
+# Transpile JavaScript (ES6+ to ES5)
 echo "Transpiling JavaScript with Babel..."
 find dist/assets/js -name "*.js" -type f | while read file; do
     npx babel "$file" --out-file "$file"
@@ -56,14 +52,4 @@ find dist/assets/js -name "*.js" -type f | while read file; do
     npx terser "$file" -o "$file" --compress --mangle
 done
 
-# Calculate size savings
-ORIG_SIZE=$(du -sh . --exclude=node_modules --exclude=dist --exclude=.git 2>/dev/null | cut -f1 || echo "N/A")
-DIST_SIZE=$(du -sh dist 2>/dev/null | cut -f1 || echo "N/A")
-
-echo ""
 echo "Build complete!"
-echo "Original size: $ORIG_SIZE"
-echo "Minified size: $DIST_SIZE"
-echo "Output: dist/"
-echo ""
-echo "To preview: cd dist && python3 -m http.server 8080"
